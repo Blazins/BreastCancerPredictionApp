@@ -1,0 +1,2 @@
+# BreastCancerPredictionApp
+To run the application you need to have anaconda navigator in your machine. The app is run from the command line through anaconda prompt. After installation, open anaconda prompt and install streamlit(pip install streamlit). It is a machine learning framework that was used in this project. Once streamlit is installed, navigate to the project destination folder through cd command then  use "streamlit run BreastCancerPrediction.py".
